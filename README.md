@@ -1,15 +1,8 @@
-## NumPy Exercises
+# Python Data Basics
 
-This folder contains a single Jupyter notebook covering core NumPy concepts with practical examples.
+This repository contains practical Python exercises focused on data handling and automation.
 
-Topics included:
-- Array creation and basics
-- Indexing and slicing
-- Vectorized operations
-- Broadcasting
-- Reshaping and combining arrays
-- Conditional logic
-- Aggregations and axis usage
-- Basic file operations
+Current contents:
+- NumPy essentials with hands-on examples
 
-Purpose: Structured practice and skill refresh.
+The work here is intended for structured learning and refresh.
